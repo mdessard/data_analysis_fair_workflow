@@ -50,3 +50,5 @@ It will install snakemake with pip and run the workflow in the HPC:
 After successful execution, you can create a self-contained interactive HTML report with all results via:
 
 `snakemake --report report.html`
+
+couscous
